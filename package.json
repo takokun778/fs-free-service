@@ -1,0 +1,12 @@
+{
+  "name": "fs-free-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fmt": "prettier -w index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
